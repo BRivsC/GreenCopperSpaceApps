@@ -1,15 +1,15 @@
 English
 =======
-# GreenCopper - Acid Mining Spill Monitoring System
+# GreenCopper - Acid Mining Drainage Monitoring System
 
-This is a project created for NASA Space Apps Hackathon 2024 in Chile. It consists of a website designed to monitor acid spills by visualizing satellite data on temperatures and pH levels. It includes an automatically updating sequence of images along with a corresponding data table.
+This is a project created for NASA Space Apps Hackathon 2024 in Chile. It consists of a website designed to monitor acid drains by visualizing satellite data on temperatures and pH levels. It includes an automatically updating sequence of images along with a corresponding data table.
 
 ## Overview
 
-The site monitors temperatures in critical areas of mining operations, primarily waste dumps, and updates data and images in real time to display alerts about possible acid spills. The system classifies temperatures into three levels:
+The site monitors temperatures in critical areas of mining operations, primarily waste dumps, and updates data and images in real time to display alerts about possible acid drains. The system classifies temperatures into three levels:
 
 * Below 30°C: Safe operation.
-* Between 30°C and 45°C: Risk of spilling warning.
+* Between 30°C and 45°C: Risk of acid draining warning.
 * Above 45°C: Critical alert.
 
 Additionally, the site displays data on:
